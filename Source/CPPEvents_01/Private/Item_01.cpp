@@ -57,3 +57,4 @@ bool AItem_01::SkillMAX_Implementation() {
 	UE_LOG(LogTemp, Warning, TEXT("ktx ++++++ inside SkillMAX_Implementation"));
 	return false;
 }
+

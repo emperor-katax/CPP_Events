@@ -8,7 +8,7 @@
 
 
 DECLARE_DYNAMIC_MULTICAST_DELEGATE(FImpact_02);
-DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FGetHealth, float, Health_01);
+DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FGetHealth, float, Health_01); 
 
 // C++ Delegates
 // https://docs.unrealengine.com/en-US/Programming/UnrealArchitecture/Delegates/index.html
